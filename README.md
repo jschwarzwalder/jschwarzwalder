@@ -1,85 +1,98 @@
-# Hi, I'm Jami Schwarzwalder 👋
+# Jami Schwarzwalder
 
-I'm a UX-focused technical professional with experience across Google, Amazon Web Services (AWS), Microsoft, startups, and education.
+UX Testing | QA (Manual & Exploratory) | Product Support | Systems Documentation
 
-My career has consistently centered around improving how people interact with complex systems. Whether I'm reproducing software bugs, testing new features, writing documentation, or supporting engineering teams, I enjoy finding friction points and turning them into practical improvements.
+---
 
-## What I Do
+## 👋 About Me
 
-* UX Testing & Exploratory QA
-* Bug Reproduction & Troubleshooting
-* Manual Software Testing
-* Technical Documentation & Knowledge Management
-* Product Support & User Enablement
-* Workflow & Process Improvement
-* Cross-functional collaboration with Engineering, Product, and Support teams
+I work at the intersection of **users, systems, and engineering teams**.
 
-## Technologies I've Worked With
+My focus is helping teams understand how real users experience complex software systems by identifying friction points, reproducing issues, and improving clarity across products and documentation.
 
-Python • Java • PHP • SQL • AWS • Git • GitHub Actions • Selenium • JSON • XML • Sphinx • Markdown • REST APIs • HTML • CSS • JavaScript
+I’ve worked across:
+- Google (internal technical documentation systems)
+- Amazon (AWS Config, SDKs, developer tools, documentation systems)
+- Microsoft (education product UX + usability testing)
+- VR development (including a Steam-released project with real-user testing)
+- Startup and public sector environments (full-cycle product + support work)
 
-## Professional Background
+---
 
-I've worked with organizations including:
+## 🔍 What I Do Best
 
-* Google
-* Amazon Web Services (AWS)
-* Microsoft
-* Startups
-* Educational technology projects
-* Independent VR development
+- Exploratory & manual QA testing of complex systems
+- Reproducing, isolating, and documenting software issues
+- UX testing through real user observation and feedback
+- Translating technical systems into clear workflows and documentation
+- Supporting engineers, product managers, and end users
+- Improving usability through iterative feedback loops
 
-Across those roles I've contributed to:
+---
 
-* Internal developer documentation
-* QA and acceptance testing
-* AWS tooling and automation
-* UX improvements
-* Release readiness
-* Technical troubleshooting
-* User onboarding
-* Process documentation
-* Developer enablement
+## 🧠 Core Strengths
 
-## Featured Projects
+- UX friction detection in complex systems
+- Cross-functional communication (Engineering ↔ Product ↔ Users)
+- Debugging + system behavior analysis
+- Documentation systems (internal + external)
+- Workflow and process improvement
+- Technical onboarding and user enablement
 
-This profile contains a mixture of professional-quality personal projects and experiments related to:
+---
 
-* Automation
-* Python
-* GitHub Actions
-* QA tools
-* UX-focused utilities
-* Documentation
-* Learning new technologies
+## 💼 Selected Experience
 
-One example is a cloud-hosted PlayStation 5 price monitor built with Python and GitHub Actions that automatically checks supported retailers and sends email notifications when qualifying deals are found.
+**Google** — Technical Writer (Internal Systems)  
+Focused on internal analytics, logging, and experimentation platforms. Partnered with engineering and DevOps teams to ensure accurate system documentation and usability clarity.
 
-## My Approach
+**Amazon (AWS Config)** — Software Development Engineer  
+Worked on distributed systems, managed rule expansion, testing, and migration from Python 2 → 3. Supported release validation and system reliability improvements.
 
-I enjoy understanding how complex systems actually behave in practice.
+**Amazon (SDK & Docs Tools)** — Technical Writer / Developer Tools  
+Built code examples, documentation systems, and automation pipelines. Analyzed usage data and improved developer onboarding workflows.
 
-Rather than focusing only on writing code, I'm interested in observing real users, identifying confusing workflows, reproducing difficult bugs, improving documentation, and helping teams build products that are easier to use and support.
+**Microsoft** — Education UX / Content + Usability Testing  
+Improved education product usability, tested workflows, and refined information architecture for learning systems.
 
-## Current Interests
+**VR Development (Steam Release)**  
+Built and shipped VR experience with Unity. Conducted extensive real-user testing with both novice and experienced VR users and iterated based on behavioral feedback.
 
-I'm currently seeking remote opportunities involving:
+**Emotions Count (Startup)** — Lead Developer  
+Built full-stack web-based emotional tracking system for classrooms. Designed dashboards, feedback loops, and teacher-facing UX tools.
 
-* UX Testing
-* Product Support
-* Manual & Exploratory QA
-* Technical Support Engineering
-* Developer Enablement
-* Knowledge Management
-* Operations & Process Improvement
+---
 
-## Connect
+## 🧪 Tools & Technologies
 
-* [LinkedIn](https://www.linkedin.com/in/jschwarzwalder)
-* [Portfolio](https://jschwarzwalder.neocities.org/)
-* [GitHub Projects](https://github.com/jschwarzwalder)
+Python • Java • PHP • SQL • JavaScript  
+Selenium • AWS • Git • CI/CD  
+Sphinx • Markdown • XML • JSON  
+Agile / Scrum • UX Testing • QA Testing
 
-Thanks for stopping by!
+---
+
+## 🎯 What I'm Looking For
+
+Remote roles in:
+
+- UX Testing / UX Research Support
+- QA Engineer (Manual / Exploratory)
+- Product Support Engineer
+- Technical Support (Engineering-facing)
+- Developer Experience (DX / DevEx)
+- Systems Documentation / Enablement
+
+---
+
+## 📫 Links
+
+- [LinkedIn](https://www.linkedin.com/in/jschwarzwalder)
+- [Portfolio](https://jschwarzwalder.neocities.org/)
+- [GitHub Projects](https://github.com/jschwarzwalder)
+---
+
+
 
 
 <!--
