@@ -1,111 +1,200 @@
 # Jami Schwarzwalder
 
-UX Testing | QA (Manual & Exploratory) | Product Support | Systems Documentation
+UX Systems Thinker • Product Support • QA (Exploratory & Manual) • Technical Documentation • VR & Interactive Systems
 
 ---
 
-## 👋 About Me
+## 🧭 About Me
 
-I work at the intersection of **users, systems, and engineering teams**.
+I work at the intersection of **users, systems, and complexity**.
 
-My focus is helping teams understand how real users experience complex software systems by identifying friction points, reproducing issues, and improving clarity across products and documentation.
+My focus is identifying friction in complex systems and improving how people understand, navigate, and interact with them—whether that system is:
 
-I’ve worked across:
-- Google (internal technical documentation systems)
-- Amazon (AWS Config, SDKs, developer tools, documentation systems)
-- Microsoft (education product UX + usability testing)
-- VR development (including a Steam-released project with real-user testing)
-- Startup and public sector environments (full-cycle product + support work)
+- enterprise cloud infrastructure
+- documentation pipelines
+- educational software
+- or immersive VR environments
 
----
-
-## 🔍 What I Do Best
-
-- Exploratory & manual QA testing of complex systems
-- Reproducing, isolating, and documenting software issues
-- UX testing through real user observation and feedback
-- Translating technical systems into clear workflows and documentation
-- Supporting engineers, product managers, and end users
-- Improving usability through iterative feedback loops
+I specialize in:
+- UX testing through real user behavior observation
+- exploratory QA and system debugging
+- technical documentation and developer enablement
+- translating complex systems into usable workflows
 
 ---
 
-## 🧠 Core Strengths
+# ⭐ Featured Projects
 
-- UX friction detection in complex systems
-- Cross-functional communication (Engineering ↔ Product ↔ Users)
-- Debugging + system behavior analysis
-- Documentation systems (internal + external)
-- Workflow and process improvement
-- Technical onboarding and user enablement
+## 🎮 UX Playtesting & Systems Feedback (Ongoing Practice)
 
----
+I have long-term experience providing structured UX and systems feedback across games, interactive media, and consumer-facing products in both formal and informal environments.
 
-## 💼 Selected Experience
+### 🧠 Areas of Playtesting & Feedback Work
 
-**Google** — Technical Writer (Internal Systems)  
-Focused on internal analytics, logging, and experimentation platforms. Partnered with engineering and DevOps teams to ensure accurate system documentation and usability clarity.
+- VR and indie game playtesting (including early-stage and iterative builds under NDA)
+- Board game testing and feedback through structured playtest groups
+- Live usability feedback during game development sessions and hackathons
+- Remote playtesting during COVID using digital platforms (Discord, Tabletop Simulator)
+- Public and community playtesting at conferences and industry events
 
-**Amazon (AWS Config)** — Software Development Engineer  
-Worked on distributed systems, managed rule expansion, testing, and migration from Python 2 → 3. Supported release validation and system reliability improvements.
+### 🏢 Environments & Contexts
 
-**Amazon (SDK & Docs Tools)** — Technical Writer / Developer Tools  
-Built code examples, documentation systems, and automation pipelines. Analyzed usage data and improved developer onboarding workflows.
+- Independent game development communities (e.g., game jams and hackathons)
+- Industry showcases and indie developer events (Seattle-based and regional conventions)
+- Platform and product feedback sessions within large-scale tech environments
+- Remote asynchronous playtesting groups and online communities
 
-**Microsoft** — Education UX / Content + Usability Testing  
-Improved education product usability, tested workflows, and refined information architecture for learning systems.
+### 🧪 Product & Systems Feedback Experience
 
-**VR Development (Steam Release)**  
-Built and shipped VR experience with Unity. Conducted extensive real-user testing with both novice and experienced VR users and iterated based on behavioral feedback.
+In addition to games, I have provided structured usability and feedback input for:
 
-**Emotions Count (Startup)** — Lead Developer  
-Built full-stack web-based emotional tracking system for classrooms. Designed dashboards, feedback loops, and teacher-facing UX tools.
+- consumer hardware and software ecosystems
+- voice assistant and smart home systems
+- retail and commerce experiences
+- early-stage product prototypes in controlled testing environments
 
----
+### 🧠 Core Focus in All Playtesting Work
 
-## 🧪 Tools & Technologies
+Across all environments, my feedback consistently focuses on:
 
-Python • Java • PHP • SQL • JavaScript  
-Selenium • AWS • Git • CI/CD  
-Sphinx • Markdown • XML • JSON  
-Agile / Scrum • UX Testing • QA Testing
+- user comprehension of system rules and constraints
+- friction in onboarding and learning systems
+- behavioral responses to difficulty, ambiguity, and feedback loops
+- clarity of interaction design under real user conditions
+- emotional and cognitive response to system structure
 
----
+### ⚠️ Note
 
-## 🎯 What I'm Looking For
-
-Remote roles in:
-
-- UX Testing / UX Research Support
-- QA Engineer (Manual / Exploratory)
-- Product Support Engineer
-- Technical Support (Engineering-facing)
-- Developer Experience (DX / DevEx)
-- Systems Documentation / Enablement
+Some playtesting work is covered under NDA and cannot be named directly. Descriptions reflect the nature of the work without disclosing confidential project details.
 
 ---
 
-## 📫 Links
+## 🟠 AWS SDK Code Examples — Developer Experience System
 
-- [LinkedIn](https://www.linkedin.com/in/jschwarzwalder)
-- [Portfolio](https://jschwarzwalder.neocities.org/)
-- [GitHub Projects](https://github.com/jschwarzwalder)
+A large-scale developer experience and documentation system supporting AWS SDK code examples across multiple languages.
+
+### 🧠 What I Worked On
+
+- Migration of embedded documentation code into GitHub-based workflows
+- Structuring reusable, version-controlled SDK examples
+- Improving consistency across languages and AWS services
+- Supporting documentation build pipelines and validation workflows
+- Helping technical writers and developers collaborate on executable examples
+
+### 🧪 PR Validation & Developer Feedback System (Key Contribution)
+
+One of my most impactful contributions was designing and implementing **pull request validation checks** that improved reliability of the code example pipeline.
+
+This system:
+
+- detected common errors before integration builds ran overnight
+- reduced broken builds in the documentation pipeline
+- provided **actionable feedback to developers at PR time**
+- included guidance on how to fix issues (not just failure messages)
+- helped bridge the gap between technical writers and SDK developers
+
+This significantly improved:
+
+- build stability in documentation systems
+- developer onboarding and contribution success
+- turnaround time for fixing broken examples
+- overall confidence in the code example pipeline
+
+### 🌐 Live System
+- https://docs.aws.amazon.com/code-samples/latest/catalog/welcome.html  
+- https://github.com/awsdocs/aws-doc-sdk-examples  
+
+### 📁 Snapshot Repository
+- https://github.com/jschwarzwalder/aws-doc-sdk-examples  
+
+### 🧩 Impact Area
+Developer Experience • CI / PR Validation • Documentation Systems • Code Example Architecture • Pipeline Reliability
+
 ---
 
+## 🎮 Indentured Servant — VR Systems & Social Impact Experience
 
+A VR narrative experience exploring constrained labor systems through embodied interaction and systems design.
 
+### 🧠 What I Built
+- Full VR interaction system using Unity + HTC Vive
+- Economic constraint simulation (wages vs controlled costs)
+- Illness, debt, and environmental degradation systems
+- UX-driven pacing and behavioral observation design
+- Iterative redesign based on live demo user behavior
 
-<!--
-**jschwarzwalder/jschwarzwalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Key Insight
+Players naturally attempt to optimize within systems—even when outcomes are structurally constrained.
 
-Here are some ideas to get you started:
+This behavior was central to the experience design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Links
+- Steam: https://store.steampowered.com/app/847790/Indentured_Servant/
+- Itch.io: https://indenturedservant.itch.io/indentured-servant
+- Source: https://github.com/jschwarzwalder/indenturedServant
+
+### 🧩 Impact Area
+VR Interaction Design • UX Research • Systems Design • Social Simulation • Behavioral Observation
+
+---
+
+## 🧠 Emotions Count — Educational UX / Classroom Systems
+
+A classroom web application designed to help teachers monitor student emotional states through fast, structured check-ins.
+
+### 🧠 What I Built
+- Student emotional check-in system
+- Teacher dashboard for risk and trend visualization
+- UX iteration based on classroom feedback
+- Data privacy and deletion workflows
+- Full-stack implementation (PHP / MySQL / Bootstrap)
+
+### 🌐 Links
+- Archived site: https://web.archive.org/web/20180117232012/http://emotionscount.com/
+- Article: https://medium.com/green-river-web-mobile-developers/emotions-count-699aa088f380
+- News coverage:
+  - https://www.king5.com/news/local/teacher-creates-students-well-being-app/
+
+### 🧩 Impact Area
+UX Design • Education Technology • Product Thinking • User Research • Full-Stack Development
+
+---
+
+# 🧠 How I Think About Systems
+
+Across all my work, I consistently focus on:
+
+- how users behave under constraints
+- where systems create confusion or friction
+- how information architecture affects decision-making
+- how documentation and UI shape user outcomes
+- how to make complex systems observable and understandable
+
+---
+
+# 🛠 Core Skills
+
+UX Testing • QA (Exploratory) • Product Support • System Design • VR Interaction Design  
+Technical Writing • Developer Experience (DevEx) • Documentation Systems  
+Python • Java • PHP • SQL • AWS • Unity • C# • Git
+
+---
+
+# 📍 Focus Areas
+
+I am currently focused on roles involving:
+
+- UX / Product Testing
+- QA (Manual + Exploratory)
+- Product Support Engineering
+- Developer Experience (DevEx)
+- Technical Documentation Systems
+- Operations / Enablement roles in technical environments
+
+---
+
+# 📫 Contact
+
+- GitHub: https://github.com/jschwarzwalder
+- LinkedIn: https://www.linkedin.com/in/jschwarzwalder/
+- Portfolio: https://jschwarzwalder.neocities.org/#portfolio
